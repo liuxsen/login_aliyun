@@ -1,0 +1,19 @@
+{
+  "name": "login_aliyun",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"successfull!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxsen/login_aliyun.git"
+  },
+  "author": "liuxsen <948771968@qq.com> (http://github.com/liuxsen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxsen/login_aliyun/issues"
+  },
+  "homepage": "https://github.com/liuxsen/login_aliyun#readme"
+}
